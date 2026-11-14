@@ -1,0 +1,32 @@
+{
+ "edition": "2026-11-14 film, built from the product's newest real screens",
+ "film": {
+  "duration_seconds": 25.0,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "audio": "silent",
+  "readme_loop": "0.0-25.0 s of the film",
+  "mp4": "review encode of the master (H.264 CRF 24, faststart)"
+ },
+ "qualification": "One round played locally on the game's own server by made-up players (Haneul, Bada, Byeol), English interface. The reveal is the game's own animation, stepped frame by frame.",
+ "note": "",
+ "master_sha256": "11e66cf1157ca02955ea9e84530f4d88cfe2695f7eb4588cdfa975d3de3e4afb",
+ "files": {
+  "mp4": {
+   "path": "assets/elim-play-promo-20261114.mp4",
+   "bytes": 1426779,
+   "sha256": "8a5d8e62d0ee11aabee2b4c0a85ac5313a6eb0260da0a9172245ee43566061b3"
+  },
+  "gif": {
+   "path": "assets/elim-play-promo-20261114.gif",
+   "bytes": 1196625,
+   "sha256": "6e23d91090b27aa03fa26f13c495ed723600c4b6e53c436b9f66f12b7c4cc230"
+  },
+  "poster": {
+   "path": "assets/elim-play-promo-20261114-poster.png",
+   "bytes": 137254,
+   "sha256": "7b7c5e96ee93fc58f9dd90d3e780835222611803b5e83e1e0594e7e565c6badc"
+  }
+ }
+}
